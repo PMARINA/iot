@@ -1,3 +1,7 @@
+# Student Repository
+
+This is a student repository for an IoT course. My site for this course can be found [here](https://pmyneni.wixsite.com/dsd1/blog). The majority of the work in this repository is not mine (view commit history for credit of contributions as well acknowledgements in the source).
+
 # Internet of Things (IoT)
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
